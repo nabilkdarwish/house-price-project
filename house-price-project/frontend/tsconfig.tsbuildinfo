@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/predictionClient.ts","./src/components/PredictionForm.tsx","./src/pages/HomePage.tsx","./src/pages/NotFoundPage.tsx","./src/pages/ResultPage.tsx","./src/types/prediction.ts"],"version":"5.9.3"}
