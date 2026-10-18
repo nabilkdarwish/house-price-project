@@ -2,7 +2,7 @@
 
 An end-to-end machine-learning web app for estimating residential property prices from listing details. The project brings together a data-preparation notebook, a scikit-learn regression pipeline, a FastAPI prediction service, and a React + TypeScript interface.
 
-> **Learning project:** the bundled example data is synthetic. The reported metrics are for that synthetic dataset and should not be used to value real property. Replace it with the linked real dataset and retrain before drawing conclusions.
+> **Learning project:** generate a small synthetic example locally with the script in `house-price-project/notebooks/data/`; the generated CSV is not committed. Example metrics from synthetic data should not be used to value real property. Replace it with the linked dataset and retrain before drawing conclusions.
 
 ## What it includes
 
